@@ -1,0 +1,12 @@
+.container {
+    display: flex-wrap;
+    justify-content: center;
+    width: 800px;
+}
+
+.box {
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    border: 1px black solid;
+}
